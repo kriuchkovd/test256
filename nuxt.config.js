@@ -1,4 +1,8 @@
 export default {
+  mode: 'static',
+  router: {
+    base: '/your-github-repository-name/'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'nuxt-app',
